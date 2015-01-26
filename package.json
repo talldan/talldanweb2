@@ -1,0 +1,24 @@
+{
+  "name": "talldanweb2",
+  "version": "0.0.1",
+  "description": "Talldan website for portfolio and other bits and bobs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/talldan/talldanweb2"
+  },
+  "keywords": [
+    "website",
+    "portfolio",
+    "stuff"
+  ],
+  "author": "Daniel Richards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talldan/talldanweb2/issues"
+  },
+  "homepage": "https://github.com/talldan/talldanweb2"
+}
